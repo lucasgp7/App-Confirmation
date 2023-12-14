@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Confirmation</string>
+    <string name="greeting_message">Atendimento Agendado, %s!</string>
+</resources>
